@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0088-merge-sorted-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
