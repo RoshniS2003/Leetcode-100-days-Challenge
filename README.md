@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
