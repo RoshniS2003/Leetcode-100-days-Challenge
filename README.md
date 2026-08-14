@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
