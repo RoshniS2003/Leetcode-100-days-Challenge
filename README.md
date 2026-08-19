@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0206-reverse-linked-list) |
 ## Binary Search
@@ -109,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
