@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0053-maximum-subarray) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0242-valid-anagram) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
