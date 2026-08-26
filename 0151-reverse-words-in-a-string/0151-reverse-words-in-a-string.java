@@ -1,28 +1,18 @@
 class Solution {
     public String reverseWords(String s) {
-        StringBuilder sb = new StringBuilder();
-        int i = s.length() - 1;
-
-        while (i >= 0) {
-            // Skip trailing or intermediate spaces
-            while (i >= 0 && s.charAt(i) == ' ') {
-                i--;
+        // Trim leading/trailing spaces and split by 1 or more whitespace characters
+        String[] words = s.trim().split("\\s+");
+        
+        StringBuilder result = new StringBuilder();
+        
+        // Append words in reverse order
+        for (int i = words.length - 1; i >= 0; i--) {
+            result.append(words[i]);
+            if (i > 0) {
+                result.append(" ");
             }
-            if (i < 0) break;
-
-            // Find the start of the current word
-            int j = i;
-            while (i >= 0 && s.charAt(i) != ' ') {
-                i--;
-            }
-
-            // Append the word followed by a space
-            if (sb.length() > 0) {
-                sb.append(" ");
-            }
-            sb.append(s.substring(i + 1, j + 1));
         }
-
-        return sb.toString();
+        
+        return result.toString();
     }
 }
