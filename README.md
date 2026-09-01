@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0136-single-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0242-valid-anagram) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
