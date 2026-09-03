@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0054-spiral-matrix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
