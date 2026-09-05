@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
