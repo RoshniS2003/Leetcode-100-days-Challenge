@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0567-permutation-in-string) |
