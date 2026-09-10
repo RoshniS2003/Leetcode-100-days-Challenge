@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -201,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
