@@ -14,7 +14,7 @@ class Solution {
             return head;
         }
 
-        // 1. Calculate the length of the list and find the tail
+        // 1. Calculate the length and find the current tail
         ListNode tail = head;
         int length = 1;
         while (tail.next != null) {
@@ -22,13 +22,13 @@ class Solution {
             length++;
         }
 
-        // 2. Normalize k using modulo
+        // 2. Compute actual rotations needed
         k = k % length;
         if (k == 0) {
             return head;
         }
 
-        // 3. Connect the tail to the head to form a circular list
+        // 3. Connect tail to head to make it circular
         tail.next = head;
 
         // 4. Find the new tail: (length - k) steps from head
@@ -38,7 +38,7 @@ class Solution {
             newTail = newTail.next;
         }
 
-        // 5. Break the cycle and assign the new head
+        // 5. Break the cycle and return the new head
         ListNode newHead = newTail.next;
         newTail.next = null;
 
