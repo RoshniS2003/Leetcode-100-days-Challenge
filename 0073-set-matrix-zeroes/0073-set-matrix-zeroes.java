@@ -3,26 +3,26 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
         
-        boolean firstRowHasZero = false;
-        boolean firstColHasZero = false;
-
-        // Check if first column has any zeros
-        for (int i = 0; i < m; i++) {
-            if (matrix[i][0] == 0) {
-                firstColHasZero = true;
-                break;
-            }
-        }
-
-        // Check if first row has any zeros
+        boolean firstRowZero = false;
+        boolean firstColZero = false;
+        
+        // Step 1: Check if the first row contains any zeroes
         for (int j = 0; j < n; j++) {
             if (matrix[0][j] == 0) {
-                firstRowHasZero = true;
+                firstRowZero = true;
                 break;
             }
         }
-
-        // Use first row and column as markers
+        
+        // Step 2: Check if the first column contains any zeroes
+        for (int i = 0; i < m; i++) {
+            if (matrix[i][0] == 0) {
+                firstColZero = true;
+                break;
+            }
+        }
+        
+        // Step 3: Use the first row and column to mark zeroes for the rest of the matrix
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
                 if (matrix[i][j] == 0) {
@@ -31,8 +31,8 @@ class Solution {
                 }
             }
         }
-
-        // Set elements to zero based on markers
+        
+        // Step 4: Zero out cells based on the markers in the first row and column
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
                 if (matrix[i][0] == 0 || matrix[0][j] == 0) {
@@ -40,16 +40,16 @@ class Solution {
                 }
             }
         }
-
-        // Zero out the first row if needed
-        if (firstRowHasZero) {
+        
+        // Step 5: Zero out the first row if needed
+        if (firstRowZero) {
             for (int j = 0; j < n; j++) {
                 matrix[0][j] = 0;
             }
         }
-
-        // Zero out the first column if needed
-        if (firstColHasZero) {
+        
+        // Step 6: Zero out the first column if needed
+        if (firstColZero) {
             for (int i = 0; i < m; i++) {
                 matrix[i][0] = 0;
             }
