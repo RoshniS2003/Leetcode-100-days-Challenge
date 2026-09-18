@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0206-reverse-linked-list) |
