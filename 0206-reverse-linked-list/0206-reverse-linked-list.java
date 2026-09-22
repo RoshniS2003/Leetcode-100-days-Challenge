@@ -15,11 +15,11 @@ class Solution {
 
         while (curr != null) {
             ListNode nextTemp = curr.next; // Save next node
-            curr.next = prev;              // Reverse current node's pointer
-            prev = curr;                   // Move prev one step forward
-            curr = nextTemp;               // Move curr one step forward
+            curr.next = prev;              // Reverse pointer
+            prev = curr;                   // Advance prev
+            curr = nextTemp;               // Advance curr
         }
 
-        return prev; // prev is the new head of the reversed list
+        return prev; // New head of reversed list
     }
 }
