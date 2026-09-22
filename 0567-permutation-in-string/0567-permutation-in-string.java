@@ -1,36 +1,31 @@
-class Solution {
-    public boolean checkInclusion(String s1, String s2) {
-        int n1 = s1.length();
-        int n2 = s2.length();
-
-        if (n1 > n2) return false;
-
-        int[] s1Count = new int[26];
-        int[] s2Count = new int[26];
-
-        // Initialize counts for the first window of length s1
-        for (int i = 0; i < n1; i++) {
-            s1Count[s1.charAt(i) - 'a']++;
-            s2Count[s2.charAt(i) - 'a']++;
-        }
-
-        // Slide the window across s2
-        for (int i = 0; i < n2 - n1; i++) {
-            if (matches(s1Count, s2Count)) return true;
-
-            // Slide window: add right character, remove left character
-            s2Count[s2.charAt(i + n1) - 'a']++;
-            s2Count[s2.charAt(i) - 'a']--;
-        }
-
-        // Check the last window
-        return matches(s1Count, s2Count);
-    }
-
-    private boolean matches(int[] s1Count, int[] s2Count) {
-        for (int i = 0; i < 26; i++) {
-            if (s1Count[i] != s2Count[i]) return false;
-        }
-        return true;
-    }
-}
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        len1, len2 = len(s1), len(s2)
+        
+        # If s1 is longer than s2, s2 cannot contain a permutation of s1
+        if len1 > len2:
+            return False
+        
+        s1_counts = [0] * 26
+        s2_counts = [0] * 26
+        
+        # Initialize counts for the first window of length len1
+        for i in range(len1):
+            s1_counts[ord(s1[i]) - ord('a')] += 1
+            s2_counts[ord(s2[i]) - ord('a')] += 1
+            
+        if s1_counts == s2_counts:
+            return True
+        
+        # Slide the window across s2
+        for i in range(len1, len2):
+            # Add the new character entering the window
+            s2_counts[ord(s2[i]) - ord('a')] += 1
+            # Remove the character leaving the window
+            s2_counts[ord(s2[i - len1]) - ord('a')] -= 1
+            
+            # Compare character frequencies
+            if s1_counts == s2_counts:
+                return True
+                
+        return False
