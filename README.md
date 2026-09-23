@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
