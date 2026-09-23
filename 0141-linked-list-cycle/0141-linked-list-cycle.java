@@ -9,6 +9,17 @@
  *     }
  * }
  */
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
 public class Solution {
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) {
@@ -27,6 +38,6 @@ public class Solution {
             }
         }
 
-        return false;                  // fast reached the end (null), so no cycle
+        return false;                  // reached end of list, no cycle
     }
 }
