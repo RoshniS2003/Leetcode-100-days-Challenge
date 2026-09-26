@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0234-palindrome-linked-list) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -193,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
