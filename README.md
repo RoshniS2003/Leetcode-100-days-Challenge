@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Trie
@@ -278,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
