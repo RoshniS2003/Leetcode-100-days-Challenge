@@ -296,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
