@@ -19,14 +19,13 @@ class Solution {
         helper(root, result);
         return result;
     }
-
+    
     private void helper(TreeNode node, List<Integer> result) {
         if (node == null) {
             return;
         }
-        
-        helper(node.left, result);  // Traverse left child
-        result.add(node.val);       // Visit root
-        helper(node.right, result); // Traverse right child
+        helper(node.left, result);   // Visit left subtree
+        result.add(node.val);        // Visit root
+        helper(node.right, result);  // Visit right subtree
     }
 }
