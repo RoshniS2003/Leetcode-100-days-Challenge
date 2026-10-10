@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Trie
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
