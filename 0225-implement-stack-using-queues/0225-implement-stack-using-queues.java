@@ -2,30 +2,39 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 class MyStack {
-    private Queue<Integer> q;
+    private Queue<Integer> queue;
 
     public MyStack() {
-        q = new LinkedList<>();
+        queue = new LinkedList<>();
     }
-
+    
     public void push(int x) {
-        q.add(x);
-        int size = q.size();
-        // Rotate the queue so that the newly added element moves to the front
+        queue.add(x);
+        int size = queue.size();
+        // Rotate the queue so that the newly added element comes to the front
         for (int i = 0; i < size - 1; i++) {
-            q.add(q.remove());
+            queue.add(queue.remove());
         }
     }
-
+    
     public int pop() {
-        return q.remove();
+        return queue.remove();
     }
-
+    
     public int top() {
-        return q.peek();
+        return queue.peek();
     }
-
+    
     public boolean empty() {
-        return q.isEmpty();
+        return queue.isEmpty();
     }
 }
+
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack obj = new MyStack();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.top();
+ * boolean param_4 = obj.empty();
+ */
