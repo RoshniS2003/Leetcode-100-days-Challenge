@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Trie
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -386,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Interactive
 |  |
 | ------- |
