@@ -11,39 +11,40 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) return true;
-        
-        // 1. Find middle using fast & slow pointers
-        ListNode slow = head, fast = head;
+
+        // Step 1: Find the middle of the linked list using slow and fast pointers
+        ListNode slow = head;
+        ListNode fast = head;
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        
-        // 2. Reverse second half of the list
+
+        // Step 2: Reverse the second half of the linked list
         ListNode secondHalfHead = reverseList(slow);
-        
-        // 3. Compare first and second halves
-        ListNode firstHalfHead = head;
+        ListNode p1 = head;
         ListNode p2 = secondHalfHead;
+
+        // Step 3: Compare the first half and the reversed second half
         boolean result = true;
-        
         while (p2 != null) {
-            if (firstHalfHead.val != p2.val) {
+            if (p1.val != p2.val) {
                 result = false;
                 break;
             }
-            firstHalfHead = firstHalfHead.next;
+            p1 = p1.next;
             p2 = p2.next;
         }
-        
-        // Optional: Restore list structure before returning
+
+        // Optional Step 4: Restore the list (good practice, though not strictly required)
         reverseList(secondHalfHead);
-        
+
         return result;
     }
-    
+
     private ListNode reverseList(ListNode head) {
-        ListNode prev = null, curr = head;
+        ListNode prev = null;
+        ListNode curr = head;
         while (curr != null) {
             ListNode nextTemp = curr.next;
             curr.next = prev;
