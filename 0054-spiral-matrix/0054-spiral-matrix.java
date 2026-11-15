@@ -4,7 +4,9 @@ import java.util.List;
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> result = new ArrayList<>();
-        if (matrix == null || matrix.length == 0) return result;
+        if (matrix == null || matrix.length == 0) {
+            return result;
+        }
 
         int top = 0;
         int bottom = matrix.length - 1;
@@ -12,30 +14,30 @@ class Solution {
         int right = matrix[0].length - 1;
 
         while (top <= bottom && left <= right) {
-            // Traverse from Left to Right
-            for (int col = left; col <= right; col++) {
-                result.add(matrix[top][col]);
+            // 1. Traverse from left to right along the top row
+            for (int i = left; i <= right; i++) {
+                result.add(matrix[top][i]);
             }
             top++;
 
-            // Traverse downwards along Right column
-            for (int row = top; row <= bottom; row++) {
-                result.add(matrix[row][right]);
+            // 2. Traverse from top to bottom along the right column
+            for (int i = top; i <= bottom; i++) {
+                result.add(matrix[i][right]);
             }
             right--;
 
-            // Traverse from Right to Left (if top <= bottom)
+            // 3. Traverse from right to left along the bottom row (if still valid)
             if (top <= bottom) {
-                for (int col = right; col >= left; col--) {
-                    result.add(matrix[bottom][col]);
+                for (int i = right; i >= left; i--) {
+                    result.add(matrix[bottom][i]);
                 }
                 bottom--;
             }
 
-            // Traverse upwards along Left column (if left <= right)
+            // 4. Traverse from bottom to top along the left column (if still valid)
             if (left <= right) {
-                for (int row = bottom; row >= top; row--) {
-                    result.add(matrix[row][left]);
+                for (int i = bottom; i >= top; i--) {
+                    result.add(matrix[i][left]);
                 }
                 left++;
             }
