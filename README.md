@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Interactive
 |  |
