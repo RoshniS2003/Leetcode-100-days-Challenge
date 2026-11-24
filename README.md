@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0496-next-greater-element-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Counting
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RoshniS2003/Leetcode-100-days-Challenge/tree/master/0225-implement-stack-using-queues) |
